@@ -1,5 +1,15 @@
-<img src="public/promo1.png">
-<img src="public/promo2.png">
+My GitHub Unwrapped for the year 2022 :octocat::date: #GitHubUnwrapped <br>
+
+Check out your coding progress too in the link below after the screenshots :chart_with_upwards_trend::arrow_double_down:
+
+<img src="https://user-images.githubusercontent.com/109817389/210166445-acafa257-1a54-4a67-bb1c-919b8bd572e8.JPG">
+<img src="https://user-images.githubusercontent.com/109817389/210166484-27fd4309-a67a-4fc6-bc89-076cc0445b39.JPG">
+<img src="https://user-images.githubusercontent.com/109817389/210166500-d237f615-ffee-4171-8469-4b5359f7c54d.JPG">
+<img src="https://user-images.githubusercontent.com/109817389/210166512-e6067236-d015-4daf-b74d-a2851bd73218.JPG">
+<img src="https://user-images.githubusercontent.com/109817389/210166529-1f979cc1-b9e6-488e-92c0-c3a1068aa467.JPG">
+<img src="https://user-images.githubusercontent.com/109817389/210166534-99466d00-13d9-4697-8b26-6f8989f667bd.JPG">
+<img="https://user-images.githubusercontent.com/109817389/210166546-565283c4-52ba-40e3-b1d6-ac40611eff96.JPG">
+
 
 **Try it out live:** [GitHubUnwrapped.com](https://www.githubunwrapped.com)
 
